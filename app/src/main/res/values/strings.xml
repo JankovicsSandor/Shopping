@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Shop</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Beállítások</string>
+    <string name="action_shops">Üzleteink</string>
+    <string name="action_shop">Vásárlás</string>
+    <string name="action_label_other">Egyéb</string>
+    <string name="action_login">Belépés</string>
+    <string name="action_logout">Kilépés</string>
+    <string name="action_feedback">Visszajelzés</string>
+    <string name="searchResults">Keresési Eredmények</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="emptyCartText">Jelenleg üres a kosarad.</string>
+    <string name="startShoppingText">Kezzd meg a vásárlást a bolton belül</string>
+    <string name="cartFinalPriceText">Végösszeg</string>
+    <string name="ft">FT</string>
+</resources>
